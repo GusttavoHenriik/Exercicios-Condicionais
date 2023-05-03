@@ -1,2 +1,2 @@
-# Exerc-cios-Condicionais
+# Exercicios-Condicionais
 Exercícios - Condicionais
